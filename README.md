@@ -4,6 +4,6 @@ This repository contains all the tasks completed as part of the CodeAlpha Intern
 
 ## Tasks Included:
 1. Student Grade Tracker (Java)
-2. (Add other tasks here if any)
+2. Stock Trading Platform (Java)
 
 Author: Laxmi Kalyani
